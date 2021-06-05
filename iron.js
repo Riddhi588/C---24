@@ -1,6 +1,6 @@
 class Iron{
 	constructor(x,y,r){
-		constructor(x, y)
+		ellipse(x, y,w,h)
 			var options = {
 			  'density':12,
 			  'friction': 3,
