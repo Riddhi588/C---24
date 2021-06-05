@@ -1,6 +1,6 @@
 class Rubber{
 	constructor(x,y,r){
-		constructor(x, y)
+		ellipse(x, y,w,h)
 			var options = {
 			  'density':1,
 			  'friction': 5,
